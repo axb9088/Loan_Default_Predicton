@@ -398,4 +398,6 @@ The `AI_Ethics_Loan_Default_Interpretability.ipynb` notebook is a robust project
 
 ---
 
-**Note**: If you have specific SHAP or LIME outputs or additional code sections, please share them for a more detailed analysis of their results.
+**Collaborators:**
+*Srilekha Tirumala Vinjamoori*
+*Dhruv Saldanha*
