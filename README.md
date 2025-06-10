@@ -398,8 +398,3 @@ The `AI_Ethics_Loan_Default_Interpretability.ipynb` notebook is a robust project
 
 ---
 
-**Collaborators:**
-
-**Srilekha Tirumala Vinjamoori**
-
-**Dhruv Saldanha**
